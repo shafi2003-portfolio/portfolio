@@ -21,7 +21,7 @@ html {
 
 body{
   margin:0;
-  font-family:'Inter', sans-serif;
+  /* font-family:'Inter', sans-serif; */
   font-display: swap;
   background:linear-gradient(180deg,var(--bg) 0%, #071018 60%);
   color:#e6eef6;
